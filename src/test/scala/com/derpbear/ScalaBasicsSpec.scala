@@ -10,12 +10,6 @@ class ScalaBasicsSpec extends FunSpec with Matchers with BeforeAndAfterEach {
      loopsString = ""
   }
 
-  describe("Strings") {
-  }
-
-  describe("Objects") {
-  }
-
   describe("Looping") {
     it("loops using to() and returns 1, 2, 3, ") {
       for (i <- 1 to 3){ loopsString += (i + ", ") }

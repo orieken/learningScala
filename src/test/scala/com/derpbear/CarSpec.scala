@@ -16,6 +16,7 @@ class CarSpec extends FunSpec with Matchers with BeforeAndAfterEach {
       it("Turns left") {
         car turn "left" should equal ("turning ... left")
       }
+
       it("Turns right") {
         car turn "right" should equal ("turning ... right")
       }

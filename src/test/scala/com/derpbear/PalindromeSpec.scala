@@ -5,7 +5,7 @@ import org.scalatest.{Matchers, FunSpec}
 
 class PalindromeSpec extends FunSpec with Matchers {
 
-  def isPalindrome(str: String) = str == str.reverse.toString()
+  def isPalindrome(word: String) = word == word.reverse.toString()
 
   describe("palindrome examples"){
     it("is a palindrome"){
