@@ -17,7 +17,7 @@ Just some handy links of things used to help me learn Scala:
 
 # Dependencies
 
-* [SBT](http://www.scala-sbt.org/) Super handy Scala Build tool
+* [SBT](http://www.scala-sbt.org/) Super handy Simple Build tool
 * [ScalaTest](http://www.scalatest.org/getting_started_with_fun_spec) Mainly FunSpec
  
  
