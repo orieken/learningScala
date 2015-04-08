@@ -21,7 +21,7 @@ Just some handy links of things used to help me learn Scala:
 * [ScalaTest](http://www.scalatest.org/getting_started_with_fun_spec) Mainly FunSpec
  
  
-## autotesting
+## Continuous Testing
  In terminal 
  
 ``` 
