@@ -14,6 +14,7 @@ Just some handy links of things used to help me learn Scala:
 
 * [The first video I saw on Scala that made me want to try it out](https://www.youtube.com/watch?v=LH75sJAR0hc) Thanks Venkat Subramaniam
 * [Scala for the Intrigued](https://www.youtube.com/watch?v=grvvKURwGNg)
+* [2014-01 Introduction to Scala](https://www.youtube.com/watch?v=5GhFld7-7hI) - Toronto Java User Group
 
 # Dependencies
 
