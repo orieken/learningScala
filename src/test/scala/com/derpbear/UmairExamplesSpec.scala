@@ -14,8 +14,6 @@ class UmairExamplesSpec extends FunSpec with Matchers {
       val myCapture = myRegex.findFirstIn(responseBody)
       val thingsToRemove = "\",".toSet
       val id = myCapture.get.split(":").last.filterNot(thingsToRemove)
-
-      println(id)
       id.toString should equal("5f77eff7-2a15-4bcf-831c-b8c1352cc947")
     }
   }
